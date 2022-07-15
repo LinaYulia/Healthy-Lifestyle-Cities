@@ -7,4 +7,8 @@ However, fitness and diet are not the only measurements of healthiness - althoug
 You can see from this dataset. The original dataset can be found here: https://www.kaggle.com/datasets/prasertk/healthy-lifestyle-cities-report-2021
 
 
-### from this dataset, we can see which are the healthiest cities in the world and what factors influence it
+### From this dataset, we can see which are the healthiest cities in the world and what factors influence it
+
+- The first place is Amsterdam. Amsterdam ranks as the number one location for leading a healthy lifestyle across all 44 cities. Known as one of the most bike-friendly cities in the world, it’s perhaps no surprise the Dutch capital comes out on top. With over 400 outdoor activities to keep you fit and healthy, and ranking as the 5th happiest country in the world, as well as the 6th best country in Europe for obesity levels at just 20.4% (nearly 10% less compared to London at 27.8%), living in this picturesque city is the top destination for leading a healthy lifestyle.
+
+- Followed by Sydney. Sydney experiences 2,636 hours of sunshine hours per year, attracting tourists to the famous Bondi beach, but also giving you more than enough time to take advantage of the 406 outdoor activities. This outweighs the relatively high monthly gym membership cost of £42 and with a life expectancy of 82 years, perhaps outdoor fitness is the way to go.
