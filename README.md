@@ -5,3 +5,6 @@ Health as a synthetic indicator of the quality and standard of living. At the sa
 However, fitness and diet are not the only measurements of healthiness - although they do play a big part. Sometimes it’s about our surrounding environment, as well as lifestyle choices. The team at Lenstore has analysed 44 cities across the globe to uncover where it’s easier to lead a well-rounded, healthy lifestyle. From obesity levels to pollution rates, each city has been scored across 10 healthy living metrics.
 
 You can see from this dataset. The original dataset can be found here: https://www.kaggle.com/datasets/prasertk/healthy-lifestyle-cities-report-2021
+
+
+### from this dataset, we can see which are the healthiest cities in the world and what factors influence it
